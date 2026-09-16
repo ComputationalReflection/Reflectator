@@ -119,4 +119,4 @@ The base processors are always enabled. They add helper methods, wrap generated 
 
 ## License
 
-[MIT license](LICENSE)
+[MIT license](LICENSE.md)
