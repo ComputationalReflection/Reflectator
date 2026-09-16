@@ -117,6 +117,6 @@ Reflectator supports the following optional transformations:
 
 The base processors are always enabled. They add helper methods, wrap generated reflective statements when needed, and process method, constructor, class, unary-expression, assignment, try/catch, and block constructs required by the transformation pipeline.
 
-## More information
+## License
 
-* http://www.reflection.uniovi.es/
+[MIT license](LICENSE)
